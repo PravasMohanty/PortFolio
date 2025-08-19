@@ -26,7 +26,7 @@ const SocialLinks = () => {
 
     return (
         <div className="space-y-6">
-            <h3 className="text-2xl font-semibold textblue300 mb-6">Connect with me</h3>
+            <h3 className="text-2xl font-semibold text-blue-300 mb-6">Connect with me</h3>
             <div className="space-y-4">
                 {socialData.map((social, index) => (
                     <SocialLink key={index} {...social} />
