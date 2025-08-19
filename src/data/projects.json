@@ -1,0 +1,32 @@
+[
+    {
+        "projectName": "CodeForge Online Judge",
+        "description": "A full-featured online judge platform supporting problem-solving, code submission, and real-time evaluation. Built using React, Node.js, and MongoDB.",
+        "image": "/images/codeforge.png",
+        "hyperlink": "https://code-forge-arena.vercel.app/"
+    },
+    {
+        "projectName": "Banking Management System",
+        "description": "A Python + SQLite based application that manages user accounts, transactions, and loans with a secure backend architecture.",
+        "image": "/images/banking.png",
+        "hyperlink": "https://github.com/PravasMohanty/Bank-Management-System"
+    },
+    {
+        "projectName": "Finger Tracker — Computer Vision",
+        "description": "A real-time hand-tracking module built using Python, OpenCV and MediaPipe. Detects and tracks hands via webcam, identifies up to 21 landmarks per hand, and is customizable for gesture recognition and VR applications.",
+        "image": "/images/hand-detection.png",
+        "hyperlink": "https://github.com/PravasMohanty/Hand-Detection-Computer-Vision-"
+    },
+    {
+        "projectName": "Dev's Guild",
+        "description": "An online chatting platform where users can log in and communicate in a single shared chatroom. Built with React, Node.js, and WebSocket for real-time messaging.",
+        "image": "/images/chatroom.png",
+        "hyperlink": "https://github.com/PravasMohanty/Devs-Guild"
+    },
+    {
+        "projectName": "RAGify",
+        "description": "A ipython based Retrieval-Augmented Generation (RAG) app that accepts a file, web page, or raw text as input, and generates meaningful insights, summaries, and conclusions based on the provided content. Powered by LangChain, LLMs, and vector databases.",
+        "image": "/images/rag-app.png",
+        "hyperlink": "https://github.com/PravasMohanty/RAGify"
+    }
+]
