@@ -6,17 +6,17 @@
         "hyperlink": "https://code-forge-arena.vercel.app/"
     },
     {
-        "projectName": "Banking Management System",
-        "description": "A Python + SQLite based application that manages user accounts, transactions, and loans with a secure backend architecture.",
-        "image": "/images/banking.png",
-        "hyperlink": "https://github.com/PravasMohanty/Bank-Management-System"
+        "projectName": "AssistIQ",
+        "description": "An AI-powered customer support chatbot with real-time WebSocket messaging, semantic knowledge base search using pgvector, and local LLM inference via Ollama (Mistral). Features role-based access, admin knowledge base management with auto-generated embeddings, and a glassmorphic dark-mode UI. Built with React, Node.js, Express, and Supabase.",
+        "image": "/images/assistiq.png",
+        "hyperlink": "https://github.com/PravasMohanty/AssistIQ"
     },
     {
-        "projectName": "Finger Tracker — Computer Vision",
-        "description": "A real-time hand-tracking module built using Python, OpenCV and MediaPipe. Detects and tracks hands via webcam, identifies up to 21 landmarks per hand, and is customizable for gesture recognition and VR applications.",
-        "image": "/images/hand-detection.png",
-        "hyperlink": "https://github.com/PravasMohanty/Hand-Detection-Computer-Vision-"
-    },
+        "projectName": "PingMe",
+        "description": "A real-time full-stack chat application with instant messaging via Socket.IO, Redis-based message caching for fast load times, and Cloudinary for media storage. Features JWT authentication, online status tracking, and a responsive TailwindCSS UI. Built with React, Node.js, Express, MongoDB, and Redis.",
+        "image": "/images/pingme.png",
+        "hyperlink": "https://github.com/PravasMohanty/Ping-Me"
+},
     {
         "projectName": "Dev's Guild",
         "description": "An online chatting platform where users can log in and communicate in a single shared chatroom. Built with React, Node.js, and WebSocket for real-time messaging.",
@@ -24,9 +24,9 @@
         "hyperlink": "https://github.com/PravasMohanty/Devs-Guild"
     },
     {
-        "projectName": "RAGify",
-        "description": "A ipython based Retrieval-Augmented Generation (RAG) app that accepts a file, web page, or raw text as input, and generates meaningful insights, summaries, and conclusions based on the provided content. Powered by LangChain, LLMs, and vector databases.",
-        "image": "/images/rag-app.png",
-        "hyperlink": "https://github.com/PravasMohanty/RAGify"
-    }
+        "projectName": "Tecchy Medico",
+        "description": "An AI-powered medical image analysis platform that uses Google Gemini's vision capabilities to analyze uploaded images and generate structured diagnostic reports covering key observations, potential conditions, severity assessment, and recommendations. Features prompt engineering via a dedicated prompt builder module and a clean Streamlit interface with report export. Built with Python, Streamlit, and Google Gemini AI.",
+        "image": "/images/techymedico.png",
+        "hyperlink": "https://github.com/PravasMohanty/Techhy-Medico"
+}
 ]
